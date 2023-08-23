@@ -1,6 +1,8 @@
+[logo]: /assets/logo.jpg
+
 # Bem-vindo ao RolimDev - Setor de TI da Prefeitura de Rolim de Moura
 
-<img src="/assets/logo.jpg" alt="Logo RolimDev" />
+![Logo da RolimDev][logo]
 
 Olá e seja bem-vindo ao repositório do RolimDev, do setor de TI da Prefeitura de Rolim de Moura! Aqui você encontrará informações valiosas sobre nossos projetos, colaboradores, diretrizes de desenvolvimento e muito mais.
 
